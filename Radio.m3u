@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,VIRGIN RADIO
+https://icy.unitedradio.it/Virgin.mp3
+#EXTINF:0,VIRGIN RADIO CLASSIC ROCK
+https://icy.unitedradio.it/VirginRockClassics.mp3
+#EXTINF:0,VIRGIN RADIO ROCK HITS
+https://icy.unitedradio.it/VirginRockHits.mp3
+#EXTINF:0,VIRGIN RADIO ROCK BALLADS
+https://icy.unitedradio.it/Virgin_06.mp3
+#EXTINF:0,VIRGIN ROCK '70
+https://icy.unitedradio.it/VirginRock70.mp3
+#EXTINF:0,VIRGIN ROCK '80
+https://icy.unitedradio.it/VirginRock80.mp3
+#EXTINF:0,VIRGIN ROCK '90
+https://icy.unitedradio.it/Virgin_03.mp3
+#EXTINF:0,VIRGIN ROCK 2K
+https://icy.unitedradio.it/Virgin_02.mp3
+#EXTINF:0,VIRGIN RADIO HARD ROCK
+https://icy.unitedradio.it/VirginHardRock.mp3
+#EXTINF:0,VIRGIN RADIO ROCK PARTY
+https://icy.unitedradio.it/VirginRockParty.mp3
+#EXTINF:0,ROCKSTAR: OASIS
+https://icy.unitedradio.it/um1030.mp3
+#EXTINF:0,RADIO MARTE
+https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:0,RDS 100% GRANDI SUCCESSI
+https://stream.rds.radio/audio/rds.stream_aac64/playlist.m3u8
