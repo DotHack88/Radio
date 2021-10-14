@@ -38,10 +38,11 @@ https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/index_96_a-p.m3u
 #EXTINF:0,RADIO DEEJAY TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,jazz/lofi hip hop radio🌱chill beats to relax/study to [LIVE 24/7]
-https://www.youtube.com/watch?v=y4rPNCXOeMs
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634239859/ei/EzFoYYnELIaD8gO-54CwDA/ip/93.67.213.219/id/y4rPNCXOeMs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYUCTVWMv9JZ1iu-4lg05KXigB18cUzA862HOUPUAzgUCIQDyQsWhaRx2ID-LFToXQgxRFYt15lelSvecLtKRFogtqg%3D%3D/file/index.m3u8
 #EXTINF:0,ChillYourMind 24/7 Radio | Chillout Music, Summer Music, Chill House, Deep House, Summer Mix 2021
-https://www.youtube.com/watch?v=DquKMopzJEY
-#EXTINF:0,lofi hip hop radio - beats to sleep/chill to
-https://www.youtube.com/watch?v=DWcJFNfaw9cW
-#EXTINF:0,Test
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634237796/ei/BCloYY3TLabZ-gaDvKKQAQ/ip/93.67.213.219/id/DquKMopzJEY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANMNhLsUE7iSOBnE-hXD328F6KLZpTl-4d3FSI_eJVVFAiEA8UILFQw8V_6LIE-hAXju8qjLEzrj9ahfecafA6zY-mg%3D/file/index.m3u8
+#EXTINF:0,lofi hip hop radio - beats to sleep/chill to
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634239893/ei/NDFoYeGwPJny-gbLiriYDw/ip/93.67.213.219/id/DWcJFNfaw9c.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIcbl4oyBO5LV0sKAN0VUdqUcowM_Rh7ZajHuoD3RtUVAiEA2Kv17WVv-s_Z811OZoDy2CDY36AlQ4cfXqwYGhQeG50%3D/file/index.m3u8
+
+
+#EXTINF:0,Test
