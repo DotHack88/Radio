@@ -39,5 +39,9 @@ https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist_1.m3u
 https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/index_96_a-p.m3u8?sd=10&rebase=on
 #EXTINF:0,RADIO DEEJAY TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,RADIO IBIZA
+https://kisskiss.fluidstream.eu/ibiza.aac?id=IfnGcCk7aO&FLID=1
+#EXTINF:0,RADIO IBIZA TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w502359474.m3u8
 #EXTINF:0, Lofi Girl
 https://www.youtube.com/watch?v=5qap5aO4i9A
