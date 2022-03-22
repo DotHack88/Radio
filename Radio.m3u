@@ -43,5 +43,13 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10
 https://kisskiss.fluidstream.eu/ibiza.aac?id=IfnGcCk7aO&FLID=1
 #EXTINF:0,RADIO IBIZA TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w502359474.m3u8
+#EXTINF:0,RADIO KISS KISS NAPOLI
+https://kisskiss.fluidstream.eu/KKNapoli.aac?id=DXuxv8dv7h&FLID=1
+#EXTINF:0,RADIO KISS KISS NAPOLI TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/chunklist_w110610051.m3u8
+#EXTINF:0,RADIO KISS KISS ITALIA
+https://kisskiss.fluidstream.eu/KKItalia.aac?id=HCCBnpJu3Y&FLID=1
+#EXTINF:0,RADIO KISS KISS ITALIA TV
+https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1891085512.m3u8
 #EXTINF:0, Lofi Girl
 https://www.youtube.com/watch?v=5qap5aO4i9A
